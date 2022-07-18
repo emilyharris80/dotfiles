@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emily.harris@simplybusiness.co.uk
+	name = emily  harris
